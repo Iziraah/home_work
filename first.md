@@ -7,3 +7,8 @@ git branch branch_name - создает ветку
 
 
 ## md commands
+<<<<<<<git  HEAD
+=======
+  (#) - Заголовок
+  (*) - Cписок
+>>>>>>> md_commands
