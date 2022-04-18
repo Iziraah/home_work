@@ -22,3 +22,6 @@ git branch branch_name - создает ветку
 
    если ошибка, то нужно бежать
    
+   # Picture
+   ![Это камень Чароит](charoit.jpg)
+   
