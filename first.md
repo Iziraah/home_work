@@ -9,7 +9,7 @@ git branch branch_name - создает ветку
 ## md commands
 
 
-  (#) - Заголовок
+  (#) - qwrвок
   (*) - Cписок
 
   # test
