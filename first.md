@@ -14,3 +14,7 @@ git branch branch_name - создает ветку
 
   # test
    проверяем log веток
+
+# error
+
+жить жизнь
